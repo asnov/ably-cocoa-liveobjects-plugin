@@ -10,7 +10,7 @@ This is a work in progress plugin that enables LiveObjects functionality in the 
 
 ## Requirements
 
-Xcode 16.1 or later.
+Xcode 16.3 or later.
 
 ## Example app
 
