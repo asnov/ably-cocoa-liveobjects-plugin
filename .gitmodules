@@ -3,4 +3,4 @@
 	url = https://github.com/ably/ably-common
 [submodule "ably-cocoa"]
 	path = ably-cocoa
-	url = git@github.com:ably/ably-cocoa.git
+	url = https://github.com/ably/ably-cocoa
